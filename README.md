@@ -13,5 +13,5 @@ Minecraft Server\plugins\ にコピーし、/plまたは/pluginsでコピーさ�
 ## v1.0.1(January 19th, 2024)
 * 有効／無効にしたときにコンソールで出力されるログを変更
 * helpコマンド(Minecraftビルトイン)で表示される内容を変更
-* 
+
 ## v1.0.0(January 18th, 2024)
