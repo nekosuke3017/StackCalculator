@@ -9,4 +9,4 @@ Minecraft Server\plugins\ にコピーし、/plまたは/pluginsでコピーさ�
 
 
 # バージョン履歴(新しい順)
-## v1.0.0(January 18th, Thursday)
+## v1.0.0(January 18th, 2024)
